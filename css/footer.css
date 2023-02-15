@@ -1,0 +1,14 @@
+.hr_footer{
+    margin: 0;
+}
+
+.footer{
+    padding: 1.5em;
+    background-color: var(--header-color);
+}
+
+.footer__title {
+    font-weight: 700;
+    font-size: 18px;
+
+}
